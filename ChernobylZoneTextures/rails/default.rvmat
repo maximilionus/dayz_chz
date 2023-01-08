@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: ChernobylZoneTextures\rails\default.rvmat
+//Produced from mikero's Dos Tools Dll version 6.24
+//'now' is Sat Jan 12 14:50:30 2019 : 'file' last modified on Thu Dec 22 17:14:29 2016
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {0,0,0,1};
+specular[] = {0,0,0,0};
+specularPower = 0;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";

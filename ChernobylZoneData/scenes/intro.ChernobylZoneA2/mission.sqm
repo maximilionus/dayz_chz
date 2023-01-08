@@ -1,0 +1,165 @@
+version=11;
+class Mission
+{
+	addOns[]=
+	{
+		"chernobylzone"
+	};
+	addOnsAuto[]=
+	{
+		"chernobylzone"
+	};
+	randomSeed=6547759;
+	class Intel
+	{
+		startWeather=0.1;
+		forecastWeather=0.1;
+		year=2013;
+		month=7;
+		day=11;
+		hour=10;
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"chernobylzone",
+		"cacharacters2",
+		"camisc3",
+		"camisc_e",
+		"caweapons_ammoboxes",
+		"chernobylzoneobjects"
+	};
+	addOnsAuto[]=
+	{
+		"cacharacters2",
+		"camisc3",
+		"camisc_e",
+		"caweapons_ammoboxes",
+		"chernobylzoneobjects",
+		"chernobylzone"
+	};
+	randomSeed=15946423;
+	class Intel
+	{
+		startWeather=1;
+		forecastWeather=1;
+		year=2015;
+		month=7;
+		day=1;
+		hour=20;
+		minute=0;
+	};
+	class Groups
+	{
+		items=1;
+		class Item0
+		{
+			side="WEST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8027.0791,7.0778022,15277.179};
+					id=0;
+					side="WEST";
+					vehicle="USMC_Soldier";
+					player="PLAYER COMMANDER";
+					leader=1;
+					skill=0.60000002;
+					init="null = this execvm ""intro.sqf""";
+				};
+			};
+		};
+	};
+	class Vehicles
+	{
+		items=5;
+		class Item0
+		{
+			position[]={8076.2402,7.0611115,15284.146};
+			id=1;
+			side="EMPTY";
+			vehicle="Land_Campfire_burning";
+			skill=0.60000002;
+		};
+		class Item1
+		{
+			position[]={8074.9756,7.0611115,15289.846};
+			azimut=-290.44394;
+			id=2;
+			side="EMPTY";
+			vehicle="Land_CamoNet_EAST_EP1";
+			skill=0.60000002;
+		};
+		class Item2
+		{
+			position[]={8074.3809,7.060205,15282.318};
+			id=3;
+			side="EMPTY";
+			vehicle="RUSpecialWeaponsBox";
+			skill=0.60000002;
+		};
+		class Item3
+		{
+			position[]={1610.359,9.294117,18936.469};
+			azimut=-259.14139;
+			id=4;
+			side="EMPTY";
+			vehicle="land_chz_traktor_2";
+			skill=0.60000002;
+		};
+		class Item4
+		{
+			position[]={1578.9431,16.952564,18868.549};
+			id=5;
+			side="EMPTY";
+			vehicle="Land_Fire_burning";
+			skill=0.60000002;
+		};
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"chernobylzone"
+	};
+	addOnsAuto[]=
+	{
+		"chernobylzone"
+	};
+	randomSeed=12704085;
+	class Intel
+	{
+		startWeather=0.1;
+		forecastWeather=0.1;
+		year=2013;
+		month=7;
+		day=11;
+		hour=10;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"chernobylzone"
+	};
+	addOnsAuto[]=
+	{
+		"chernobylzone"
+	};
+	randomSeed=8064427;
+	class Intel
+	{
+		startWeather=0.1;
+		forecastWeather=0.1;
+		year=2013;
+		month=7;
+		day=11;
+		hour=10;
+	};
+};

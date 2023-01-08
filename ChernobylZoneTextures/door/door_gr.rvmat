@@ -1,0 +1,41 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: ChernobylZoneTextures\door\door_gr.rvmat
+//Produced from mikero's Dos Tools Dll version 6.24
+//'now' is Sat Jan 12 14:50:17 2019 : 'file' last modified on Thu Dec 22 17:13:32 2016
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1.0,1.0,1.0,1.0};
+diffuse[] = {1.0,1.0,1.0,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {0.1,0.1,0.1,0.0};
+specularPower = 120.0;
+PixelShaderID = "NormalMapSpecularMap";
+VertexShaderID = "NormalMap";
+class Stage1
+{
+	texture = "chz\ChernobylZoneTextures\door\door_gr_nohq.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage2
+{
+	texture = "chz\ChernobylZoneTextures\door\door_gr_smdi.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};

@@ -1,0 +1,266 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: ChernobylZoneData\scenes\intro.ChernobylZone\mission.sqm
+//Produced from mikero's Dos Tools Dll version 6.24
+//'now' is Sat Jan 12 14:49:45 2019 : 'file' last modified on Wed Aug 24 16:43:54 2016
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+version = 52;
+class EditorData
+{
+	moveGridStep = 1.0;
+	angleGridStep = 0.2617994;
+	scaleGridStep = 1.0;
+	autoGroupingDist = 10.0;
+	toggles = 1;
+	class ItemIDProvider
+	{
+		nextID = 13;
+	};
+	class Camera
+	{
+		pos[] = {6635.8516,12.158511,15842.476};
+		dir[] = {-0.47852382,-0.15150778,0.8650315};
+		up[] = {-0.073332004,0.9884616,0.1325644};
+		aside[] = {0.87513655,2.6776688e-006,0.4841122};
+	};
+};
+addons[] = {"A3_Structures_F_Civ_Camping","A3_Weapons_F_Ammoboxes","ChernobylZoneObjects","A3_Structures_F_Items_Vessels","A3_Structures_F_Mil_Shelters","A3_Characters_F"};
+class AddonsMetaData
+{
+	class List
+	{
+		items = 5;
+		class Item0
+		{
+			className = "A3_Structures_F";
+			name = "Arma 3 - Buildings and Structures";
+			author = "Bohemia Interactive";
+			url = "http://www.arma3.com";
+		};
+		class Item1
+		{
+			className = "A3_Weapons_F";
+			name = "Arma 3 Alpha - Weapons and Accessories";
+			author = "Bohemia Interactive";
+			url = "http://www.arma3.com";
+		};
+		class Item2
+		{
+			className = "ChernobylZoneObjects";
+			name = "Chernobyl Zone Objects";
+			author = "ArmanIII";
+			url = "https://www.a3chz.blogspot.com";
+		};
+		class Item3
+		{
+			className = "A3_Structures_F_Mil";
+			name = "Arma 3 - Military Buildings and Structures";
+			author = "Bohemia Interactive";
+			url = "http://www.arma3.com";
+		};
+		class Item4
+		{
+			className = "A3_Characters_F";
+			name = "Arma 3 Alpha - Characters and Clothing";
+			author = "Bohemia Interactive";
+			url = "http://www.arma3.com";
+		};
+	};
+};
+randomSeed = 15275469;
+class ScenarioData
+{
+	author = "ArmanIII";
+};
+class Intro
+{
+	class Intel
+	{
+		startWeather = 1.0;
+		startWind = 0.099999994;
+		forecastWeather = 1.0;
+		forecastWind = 0.099999994;
+		forecastWaves = 0.099999994;
+		year = 2015;
+		month = 7;
+		day = 1;
+		hour = 20;
+		minute = 0;
+		startFogDecay = 0.0049333;
+		forecastFogDecay = 0.0049333;
+	};
+	class Entities
+	{
+		items = 9;
+		class Item0
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {8075.2695,7.109087,15283.569};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 0;
+			type = "FirePlace_burning_F";
+		};
+		class Item1
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {8075.818,7.2473164,15282.359};
+				angles[] = {0.0,6.033607,0.0};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 1;
+			type = "Box_NATO_WpsSpecial_F";
+		};
+		class Item2
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {8077.1543,7.4826226,15283.6};
+				angles[] = {0.0,6.052528,0.0};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 2;
+			type = "land_chz_bedna_hneda";
+		};
+		class Item3
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {8076.1553,7.7163696,15285.086};
+				angles[] = {0.0,5.254878,0.0};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 3;
+			type = "land_chz_bedna_zelena";
+		};
+		class Item4
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {8074.8076,7.272787,15282.006};
+				angles[] = {0.0,1.4440975,0.0};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 5;
+			type = "Land_CanisterFuel_F";
+		};
+		class Item5
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {8074.743,8.1837845,15289.376};
+				angles[] = {0.0,1.5707964,0.0};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 6;
+			type = "CamoNet_BLUFOR_open_F";
+		};
+		class Item6
+		{
+			dataType = "Group";
+			side = "West";
+			class Entities
+			{
+				items = 1;
+				class Item0
+				{
+					dataType = "Object";
+					class PositionInfo
+					{
+						position[] = {6624.427,7.53085,15857.559};
+					};
+					side = "West";
+					flags = 6;
+					class Attributes
+					{
+						skill = 0.6;
+						init = "null = this execvm ""intro.sqf""";
+						isPlayer = 1;
+						isPlayable = 1;
+					};
+					id = 10;
+					type = "B_Soldier_F";
+					atlOffset = -4.7683716e-007;
+				};
+			};
+			class Attributes{};
+			id = 9;
+			atlOffset = -4.7683716e-007;
+		};
+		class Item7
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {1610.4941,10.384795,18936.46};
+				angles[] = {0.0,1.760315,0.0};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 11;
+			type = "land_chz_traktor_2";
+		};
+		class Item8
+		{
+			dataType = "Object";
+			class PositionInfo
+			{
+				position[] = {1578.9431,9.428521,18868.549};
+			};
+			side = "Empty";
+			flags = 4;
+			class Attributes
+			{
+				skill = 0.6;
+			};
+			id = 12;
+			type = "FirePlace_burning_F";
+			atlOffset = 0.086110115;
+		};
+	};
+};

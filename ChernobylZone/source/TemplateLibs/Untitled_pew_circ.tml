@@ -1,0 +1,1587 @@
+<?xml version="1.0" ?>
+<Library name="Natural" shape="elipse" default_fill="-16711936" default_outline="-16777216" tex="0">
+    <Template>
+        <Name>t_picea1s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_picea1s.p3d</File>
+        <Date>06/18/17 00:46:04</Date>
+        <Archive></Archive>
+        <Fill>-128</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976924995</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.967321</BBRadius>
+        <BBHScale>1.222436</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.045712</YShift>
+        <ZShift>-0.673446</ZShift>
+        <Height>4.161158</Height>
+        <BoundingMin X="-2.743508" Y="-0.871657" Z="-2.262423" />
+        <BoundingMax X="2.066342" Y="8.797549" Z="2.104094" />
+        <BoundingCenter X="-0.338583" Y="3.962946" Z="-0.079165" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_picea2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_picea2s.p3d</File>
+        <Date>06/18/17 00:46:05</Date>
+        <Archive></Archive>
+        <Fill>-128</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976859396</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.465674</BBRadius>
+        <BBHScale>1.018120</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.038518</XShift>
+        <YShift>0.069408</YShift>
+        <ZShift>-0.204997</ZShift>
+        <Height>10.191927</Height>
+        <BoundingMin X="-7.101178" Y="-2.503049" Z="-6.723210" />
+        <BoundingMax X="6.962273" Y="18.378254" Z="6.974012" />
+        <BoundingCenter X="-0.069453" Y="7.937602" Z="0.125401" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_picea3f</Name>
+        <File>chz\chernobylzoneobjects\plants\t_picea3f.p3d</File>
+        <Date>06/18/17 00:46:06</Date>
+        <Archive></Archive>
+        <Fill>-128</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976793810</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.738170</BBRadius>
+        <BBHScale>0.839420</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.048775</XShift>
+        <YShift>0.538497</YShift>
+        <ZShift>-4.004341</ZShift>
+        <Height>14.363506</Height>
+        <BoundingMin X="-5.434189" Y="-3.505307" Z="-4.793473" />
+        <BoundingMax X="5.088443" Y="33.230389" Z="5.759861" />
+        <BoundingCenter X="-0.172873" Y="14.862541" Z="0.483194" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_phragmites</Name>
+        <File>chz\chernobylzoneobjects\plants\p_phragmites.p3d</File>
+        <Date>06/18/17 00:45:53</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>295926325</Hash>
+        <ScaleRandMin>50.000000</ScaleRandMin>
+        <ScaleRandMax>100.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.359228</BBRadius>
+        <BBHScale>1.004583</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.002358</XShift>
+        <YShift>0.002511</YShift>
+        <ZShift>-0.027410</ZShift>
+        <Height>1.683511</Height>
+        <BoundingMin X="-2.564351" Y="-1.448548" Z="-2.274465" />
+        <BoundingMax X="2.180447" Y="1.990781" Z="2.449014" />
+        <BoundingCenter X="-0.191952" Y="0.271117" Z="0.087274" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_populus3s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_populus3s.p3d</File>
+        <Date>06/18/17 00:46:09</Date>
+        <Archive></Archive>
+        <Fill>-8323328</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1436069883</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.520509</BBRadius>
+        <BBHScale>0.911679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.031908</XShift>
+        <YShift>0.113447</YShift>
+        <ZShift>0.647255</ZShift>
+        <Height>15.741956</Height>
+        <BoundingMin X="-5.677223" Y="-2.476668" Z="-7.015432" />
+        <BoundingMax X="6.823976" Y="30.301754" Z="7.102456" />
+        <BoundingCenter X="0.573376" Y="13.912543" Z="0.043512" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_populus3s_medium</Name>
+        <File>chz\chernobylzoneobjects\plants\t_populus3s_medium.p3d</File>
+        <Date>06/18/17 00:46:10</Date>
+        <Archive></Archive>
+        <Fill>-8323328</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>120274969</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.760254</BBRadius>
+        <BBHScale>0.911679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.014731</XShift>
+        <YShift>0.104665</YShift>
+        <ZShift>-0.138062</ZShift>
+        <Height>7.870977</Height>
+        <BoundingMin X="-2.636106" Y="-0.811848" Z="-3.488882" />
+        <BoundingMax X="3.584222" Y="15.454305" Z="3.570063" />
+        <BoundingCenter X="0.474058" Y="7.321228" Z="0.040591" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_fagus2w</Name>
+        <File>chz\chernobylzoneobjects\plants\t_fagus2w.p3d</File>
+        <Date>06/18/17 00:46:00</Date>
+        <Archive></Archive>
+        <Fill>-16722176</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1213099260</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.788032</BBRadius>
+        <BBHScale>0.990483</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.241007</XShift>
+        <YShift>0.063543</YShift>
+        <ZShift>-0.384899</ZShift>
+        <Height>4.342207</Height>
+        <BoundingMin X="-3.362076" Y="-1.338140" Z="-3.111490" />
+        <BoundingMax X="3.263729" Y="8.286372" Z="3.194695" />
+        <BoundingCenter X="-0.049174" Y="3.474116" Z="0.041602" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_quercus2f</Name>
+        <File>chz\chernobylzoneobjects\plants\t_quercus2f.p3d</File>
+        <Date>06/18/17 00:46:11</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>560913881</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.689760</BBRadius>
+        <BBHScale>1.038012</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.142754</XShift>
+        <YShift>0.525852</YShift>
+        <ZShift>-1.451609</ZShift>
+        <Height>10.962550</Height>
+        <BoundingMin X="-6.947012" Y="-1.936204" Z="-5.986432" />
+        <BoundingMax X="7.574077" Y="24.258553" Z="7.657532" />
+        <BoundingCenter X="0.313533" Y="11.161174" Z="0.835550" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_craet2</Name>
+        <File>chz\chernobylzoneobjects\plants\b_craet2.p3d</File>
+        <Date>06/18/17 00:45:49</Date>
+        <Archive></Archive>
+        <Fill>-16711808</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1939486258</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>50.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.073004</BBRadius>
+        <BBHScale>0.978759</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.081893</XShift>
+        <YShift>0.134484</YShift>
+        <ZShift>-0.298705</ZShift>
+        <Height>2.638210</Height>
+        <BoundingMin X="-2.038982" Y="-0.332525" Z="-2.729728" />
+        <BoundingMax X="2.257833" Y="5.550243" Z="2.585445" />
+        <BoundingCenter X="0.109426" Y="2.608859" Z="-0.072142" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_corylus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\b_corylus2s.p3d</File>
+        <Date>06/18/17 00:45:48</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1804728475</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.486103</BBRadius>
+        <BBHScale>1.007495</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.012205</XShift>
+        <YShift>0.342778</YShift>
+        <ZShift>-0.076590</ZShift>
+        <Height>2.555530</Height>
+        <BoundingMin X="-2.852268" Y="-0.666259" Z="-3.526721" />
+        <BoundingMax X="2.847586" Y="5.360717" Z="2.541674" />
+        <BoundingCenter X="-0.002341" Y="2.347229" Z="-0.492524" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_betulahumilis</Name>
+        <File>chz\chernobylzoneobjects\plants\b_betulahumilis.p3d</File>
+        <Date>06/18/17 00:45:46</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1632726729</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>50.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.165525</BBRadius>
+        <BBHScale>1.178502</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.026674</XShift>
+        <YShift>0.089253</YShift>
+        <ZShift>-0.277489</ZShift>
+        <Height>1.064953</Height>
+        <BoundingMin X="-1.453076" Y="-0.303813" Z="-1.435541" />
+        <BoundingMax X="1.347421" Y="2.381070" Z="1.074016" />
+        <BoundingCenter X="-0.052827" Y="1.038628" Z="-0.180763" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_canina2s</Name>
+        <File>chz\chernobylzoneobjects\plants\b_canina2s.p3d</File>
+        <Date>06/18/17 00:45:48</Date>
+        <Archive></Archive>
+        <Fill>-8323328</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>13130090</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>50.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.503677</BBRadius>
+        <BBHScale>0.892272</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.208043</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.157697</ZShift>
+        <Height>1.067458</Height>
+        <BoundingMin X="-1.621352" Y="-0.537415" Z="-1.620981" />
+        <BoundingMax X="1.478113" Y="2.195354" Z="1.386373" />
+        <BoundingCenter X="-0.071620" Y="0.828969" Z="-0.117304" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_corylus</Name>
+        <File>chz\chernobylzoneobjects\plants\b_corylus.p3d</File>
+        <Date>06/18/17 00:45:48</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>904050906</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>50.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.474729</BBRadius>
+        <BBHScale>0.941019</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.079265</XShift>
+        <YShift>0.364817</YShift>
+        <ZShift>0.148534</ZShift>
+        <Height>2.428358</Height>
+        <BoundingMin X="-2.796732" Y="-0.572937" Z="-3.082317" />
+        <BoundingMax X="2.974460" Y="5.116961" Z="3.384425" />
+        <BoundingCenter X="0.088864" Y="2.272012" Z="0.151054" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_craet1</Name>
+        <File>chz\chernobylzoneobjects\plants\b_craet1.p3d</File>
+        <Date>06/18/17 00:45:48</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1939486259</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>50.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.822173</BBRadius>
+        <BBHScale>1.018812</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.081498</XShift>
+        <YShift>-0.351171</YShift>
+        <ZShift>-0.040918</ZShift>
+        <Height>1.616540</Height>
+        <BoundingMin X="-2.449014" Y="-0.639803" Z="-1.963875" />
+        <BoundingMax X="2.399248" Y="3.390871" Z="2.656581" />
+        <BoundingCenter X="-0.024883" Y="1.375534" Z="0.346353" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_pmugo</Name>
+        <File>chz\chernobylzoneobjects\plants\b_pmugo.p3d</File>
+        <Date>06/18/17 00:45:49</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-138672829</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>50.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.000209</BBRadius>
+        <BBHScale>1.224766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.034390</XShift>
+        <YShift>-0.081942</YShift>
+        <ZShift>-0.046648</ZShift>
+        <Height>0.876209</Height>
+        <BoundingMin X="-1.177991" Y="-0.282074" Z="-1.193663" />
+        <BoundingMax X="1.340834" Y="1.622942" Z="0.971266" />
+        <BoundingCenter X="0.081422" Y="0.670434" Z="-0.111199" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_prunus</Name>
+        <File>chz\chernobylzoneobjects\plants\b_prunus.p3d</File>
+        <Date>06/18/17 00:45:50</Date>
+        <Archive></Archive>
+        <Fill>-16711872</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1402901750</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>100.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.356144</BBRadius>
+        <BBHScale>0.982822</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.145392</XShift>
+        <YShift>-0.120084</YShift>
+        <ZShift>-0.248902</ZShift>
+        <Height>1.138153</Height>
+        <BoundingMin X="-1.676781" Y="-0.346724" Z="-1.515664" />
+        <BoundingMax X="1.652432" Y="2.427386" Z="2.066576" />
+        <BoundingCenter X="-0.012175" Y="1.040331" Z="0.275456" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_salix2s</Name>
+        <File>chz\chernobylzoneobjects\plants\b_salix2s.p3d</File>
+        <Date>06/18/17 00:45:51</Date>
+        <Archive></Archive>
+        <Fill>-16744320</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-405621999</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>100.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.997599</BBRadius>
+        <BBHScale>1.025004</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.015399</XShift>
+        <YShift>-0.174064</YShift>
+        <ZShift>0.020469</ZShift>
+        <Height>1.802481</Height>
+        <BoundingMin X="-2.022401" Y="-0.448946" Z="-2.567759" />
+        <BoundingMax X="2.463293" Y="3.196953" Z="2.159442" />
+        <BoundingCenter X="0.220446" Y="1.374003" Z="-0.204159" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_sambucus</Name>
+        <File>chz\chernobylzoneobjects\plants\b_sambucus.p3d</File>
+        <Date>06/18/17 00:45:51</Date>
+        <Archive></Archive>
+        <Fill>-16744384</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2026938420</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>50.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.266668</BBRadius>
+        <BBHScale>1.106426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.016867</XShift>
+        <YShift>0.150545</YShift>
+        <ZShift>0.001006</ZShift>
+        <Height>1.438153</Height>
+        <BoundingMin X="-1.032438" Y="-0.126419" Z="-1.582465" />
+        <BoundingMax X="1.804244" Y="2.993583" Z="1.672384" />
+        <BoundingCenter X="0.385903" Y="1.433582" Z="0.044959" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_sorbus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_sorbus2s.p3d</File>
+        <Date>06/18/17 00:46:14</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>740155670</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.577877</BBRadius>
+        <BBHScale>1.009299</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.282613</XShift>
+        <YShift>0.405439</YShift>
+        <ZShift>-0.005409</ZShift>
+        <Height>8.676180</Height>
+        <BoundingMin X="-6.129676" Y="-1.667063" Z="-7.040359" />
+        <BoundingMax X="9.071362" Y="16.071161" Z="6.021776" />
+        <BoundingCenter X="1.470843" Y="7.202049" Z="-0.509292" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_salix2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_salix2s.p3d</File>
+        <Date>06/18/17 00:46:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1079898333</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.743424</BBRadius>
+        <BBHScale>0.953163</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.619313</XShift>
+        <YShift>-0.752028</YShift>
+        <ZShift>0.112430</ZShift>
+        <Height>7.038803</Height>
+        <BoundingMin X="-9.263181" Y="-1.980772" Z="-9.052057" />
+        <BoundingMax X="10.173059" Y="13.143415" Z="10.201521" />
+        <BoundingCenter X="0.454939" Y="5.581322" Z="0.574732" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_quercus3s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_quercus3s.p3d</File>
+        <Date>06/18/17 00:46:13</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>560979493</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.972222</BBRadius>
+        <BBHScale>0.975465</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.802314</XShift>
+        <YShift>0.176622</YShift>
+        <ZShift>0.095526</ZShift>
+        <Height>13.958081</Height>
+        <BoundingMin X="-15.006633" Y="-4.125723" Z="-11.970305" />
+        <BoundingMax X="15.648361" Y="23.981491" Z="16.327383" />
+        <BoundingCenter X="0.320864" Y="9.927884" Z="2.178539" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_pyrus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_pyrus2s.p3d</File>
+        <Date>06/18/17 00:46:11</Date>
+        <Archive></Archive>
+        <Fill>-16742400</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>347084541</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.580186</BBRadius>
+        <BBHScale>0.998360</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.267610</XShift>
+        <YShift>0.019569</YShift>
+        <ZShift>-0.363742</ZShift>
+        <Height>7.545315</Height>
+        <BoundingMin X="-6.868776" Y="-1.909864" Z="-6.689183" />
+        <BoundingMax X="6.117710" Y="13.908251" Z="6.772546" />
+        <BoundingCenter X="-0.375533" Y="5.999193" Z="0.041682" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_pinuss2f</Name>
+        <File>chz\chernobylzoneobjects\plants\t_pinuss2f.p3d</File>
+        <Date>06/18/17 00:46:08</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1833755809</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.661103</BBRadius>
+        <BBHScale>1.292566</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.451657</XShift>
+        <YShift>0.418057</YShift>
+        <ZShift>-0.685206</ZShift>
+        <Height>12.959964</Height>
+        <BoundingMin X="-7.501208" Y="-3.123577" Z="-7.723196" />
+        <BoundingMax X="5.451677" Y="24.246025" Z="5.794671" />
+        <BoundingCenter X="-1.024765" Y="10.561224" Z="-0.964262" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_pinusn2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_pinusn2s.p3d</File>
+        <Date>06/18/17 00:46:07</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1875063321</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.331738</BBRadius>
+        <BBHScale>1.024307</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.326886</XShift>
+        <YShift>0.387782</YShift>
+        <ZShift>-0.226028</ZShift>
+        <Height>11.002066</Height>
+        <BoundingMin X="-7.055916" Y="-2.593063" Z="-5.842475" />
+        <BoundingMax X="5.906219" Y="19.921410" Z="5.596564" />
+        <BoundingCenter X="-0.574848" Y="8.664173" Z="-0.122956" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_pinusn1s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_pinusn1s.p3d</File>
+        <Date>06/18/17 00:46:06</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1875128920</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.992643</BBRadius>
+        <BBHScale>1.003344</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.020939</XShift>
+        <YShift>-0.069463</YShift>
+        <ZShift>-0.019077</ZShift>
+        <Height>3.600883</Height>
+        <BoundingMin X="-2.557731" Y="-0.009715" Z="-2.254914" />
+        <BoundingMax X="2.340728" Y="7.231158" Z="2.590147" />
+        <BoundingCenter X="-0.108502" Y="3.610721" Z="0.167617" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_malus1s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_malus1s.p3d</File>
+        <Date>06/18/17 00:46:04</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-428149939</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.226630</BBRadius>
+        <BBHScale>0.793766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.463957</XShift>
+        <YShift>0.234559</YShift>
+        <ZShift>-0.085292</ZShift>
+        <Height>4.380988</Height>
+        <BoundingMin X="-3.920711" Y="-1.638834" Z="-3.843147" />
+        <BoundingMax X="3.951961" Y="7.293727" Z="5.079232" />
+        <BoundingCenter X="0.015625" Y="2.827446" Z="0.618043" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_larix3s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_larix3s.p3d</File>
+        <Date>06/18/17 00:46:04</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2080424929</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.290109</BBRadius>
+        <BBHScale>0.976957</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.118462</XShift>
+        <YShift>-0.338104</YShift>
+        <ZShift>-0.126797</ZShift>
+        <Height>13.523836</Height>
+        <BoundingMin X="-11.492279" Y="-3.434066" Z="-11.263508" />
+        <BoundingMax X="11.652127" Y="23.893860" Z="11.880899" />
+        <BoundingCenter X="0.079924" Y="10.229897" Z="0.308696" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_larix3f</Name>
+        <File>chz\chernobylzoneobjects\plants\t_larix3f.p3d</File>
+        <Date>06/18/17 00:46:03</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2080424916</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.128162</BBRadius>
+        <BBHScale>1.075352</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.441590</XShift>
+        <YShift>0.512965</YShift>
+        <ZShift>-0.116631</ZShift>
+        <Height>14.743270</Height>
+        <BoundingMin X="-9.372091" Y="-2.269820" Z="-8.674718" />
+        <BoundingMax X="7.736391" Y="27.449980" Z="8.619144" />
+        <BoundingCenter X="-0.817850" Y="12.590079" Z="-0.027787" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_fraxinus2w</Name>
+        <File>chz\chernobylzoneobjects\plants\t_fraxinus2w.p3d</File>
+        <Date>06/18/17 00:46:02</Date>
+        <Archive></Archive>
+        <Fill>-16734208</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1622931178</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.558836</BBRadius>
+        <BBHScale>1.118116</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.173472</XShift>
+        <YShift>0.068622</YShift>
+        <ZShift>-0.240453</ZShift>
+        <Height>3.964959</Height>
+        <BoundingMin X="-5.507095" Y="-1.247097" Z="-5.773740" />
+        <BoundingMax X="5.694329" Y="8.189058" Z="5.213789" />
+        <BoundingCenter X="0.093617" Y="3.470981" Z="-0.279975" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_fraxinus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_fraxinus2s.p3d</File>
+        <Date>06/18/17 00:46:01</Date>
+        <Archive></Archive>
+        <Fill>-16727808</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1622931182</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.160462</BBRadius>
+        <BBHScale>1.080002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.212147</XShift>
+        <YShift>-0.832632</YShift>
+        <ZShift>-0.548318</ZShift>
+        <Height>10.888865</Height>
+        <BoundingMin X="-10.590249" Y="-3.146590" Z="-10.092489" />
+        <BoundingMax X="10.777052" Y="19.841806" Z="11.469830" />
+        <BoundingCenter X="0.093401" Y="8.347609" Z="0.688670" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_fagus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_fagus2s.p3d</File>
+        <Date>06/18/17 00:46:00</Date>
+        <Archive></Archive>
+        <Fill>-16714752</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1213099264</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.267182</BBRadius>
+        <BBHScale>1.037289</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.721479</XShift>
+        <YShift>0.109673</YShift>
+        <ZShift>-0.147006</ZShift>
+        <Height>9.660889</Height>
+        <BoundingMin X="-7.248315" Y="-2.081672" Z="-6.903721" />
+        <BoundingMax X="7.960320" Y="17.534117" Z="8.287056" />
+        <BoundingCenter X="0.356002" Y="7.726222" Z="0.691668" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_fagus2f</Name>
+        <File>chz\chernobylzoneobjects\plants\t_fagus2f.p3d</File>
+        <Date>06/18/17 00:45:59</Date>
+        <Archive></Archive>
+        <Fill>-16318714</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1213099277</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.004820</BBRadius>
+        <BBHScale>1.040926</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.107621</XShift>
+        <YShift>0.175020</YShift>
+        <ZShift>-0.242639</ZShift>
+        <Height>16.567320</Height>
+        <BoundingMin X="-10.851520" Y="-3.819111" Z="-8.841669" />
+        <BoundingMax X="7.362536" Y="29.800808" Z="10.210842" />
+        <BoundingCenter X="-1.744492" Y="12.990849" Z="0.684587" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_carpinus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_carpinus2s.p3d</File>
+        <Date>06/18/17 00:45:58</Date>
+        <Archive></Archive>
+        <Fill>-14090456</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1453359637</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.741379</BBRadius>
+        <BBHScale>1.217248</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.235650</XShift>
+        <YShift>0.985125</YShift>
+        <ZShift>-0.211422</ZShift>
+        <Height>9.446565</Height>
+        <BoundingMin X="-11.425297" Y="-1.649877" Z="-10.223573" />
+        <BoundingMax X="10.592683" Y="17.666098" Z="7.973502" />
+        <BoundingCenter X="-0.416307" Y="8.008110" Z="-1.125035" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_betula2w</Name>
+        <File>chz\chernobylzoneobjects\plants\t_betula2w.p3d</File>
+        <Date>06/18/17 00:45:57</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2054347735</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.175456</BBRadius>
+        <BBHScale>0.871423</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.345086</XShift>
+        <YShift>0.275918</YShift>
+        <ZShift>0.190232</ZShift>
+        <Height>2.893000</Height>
+        <BoundingMin X="-3.984090" Y="-0.971801" Z="-4.228663" />
+        <BoundingMax X="3.801942" Y="5.856558" Z="3.970405" />
+        <BoundingCenter X="-0.091074" Y="2.442379" Z="-0.129129" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_betula2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_betula2s.p3d</File>
+        <Date>06/18/17 00:45:57</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2054347739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.613219</BBRadius>
+        <BBHScale>1.147973</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.167366</XShift>
+        <YShift>0.207100</YShift>
+        <ZShift>-1.572135</ZShift>
+        <Height>10.602310</Height>
+        <BoundingMin X="-9.464670" Y="-1.997711" Z="-8.327940" />
+        <BoundingMax X="8.713827" Y="22.394644" Z="6.952713" />
+        <BoundingCenter X="-0.375422" Y="10.198466" Z="-0.687613" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_betula2f</Name>
+        <File>chz\chernobylzoneobjects\plants\t_betula2f.p3d</File>
+        <Date>06/18/17 00:45:56</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2054347752</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.084569</BBRadius>
+        <BBHScale>0.909496</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.177091</XShift>
+        <YShift>-0.067170</YShift>
+        <ZShift>0.094728</ZShift>
+        <Height>12.349897</Height>
+        <BoundingMin X="-5.702139" Y="-2.290376" Z="-6.628738" />
+        <BoundingMax X="5.909915" Y="23.271385" Z="5.076449" />
+        <BoundingCenter X="0.103888" Y="10.490504" Z="-0.776144" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_betula1f</Name>
+        <File>chz\chernobylzoneobjects\plants\t_betula1f.p3d</File>
+        <Date>06/18/17 00:45:55</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2054413351</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.294201</BBRadius>
+        <BBHScale>1.009366</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.092963</XShift>
+        <YShift>-0.015572</YShift>
+        <ZShift>-0.135836</ZShift>
+        <Height>2.451914</Height>
+        <BoundingMin X="-1.425051" Y="-0.000588" Z="-1.542643" />
+        <BoundingMax X="1.782534" Y="5.175188" Z="1.599313" />
+        <BoundingCenter X="0.178742" Y="2.587300" Z="0.028335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_alnus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_alnus2s.p3d</File>
+        <Date>06/18/17 00:45:55</Date>
+        <Archive></Archive>
+        <Fill>-12517568</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1480175927</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.829691</BBRadius>
+        <BBHScale>1.160750</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.625039</XShift>
+        <YShift>0.473979</YShift>
+        <ZShift>0.619260</ZShift>
+        <Height>8.435433</Height>
+        <BoundingMin X="-7.513226" Y="-2.147643" Z="-8.148207" />
+        <BoundingMax X="8.881495" Y="15.961743" Z="7.169006" />
+        <BoundingCenter X="0.684134" Y="6.907050" Z="-0.489600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_acer2s</Name>
+        <File>chz\chernobylzoneobjects\plants\t_acer2s.p3d</File>
+        <Date>06/18/17 00:45:54</Date>
+        <Archive></Archive>
+        <Fill>-10027162</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1666059717</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.671791</BBRadius>
+        <BBHScale>1.096690</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.094612</XShift>
+        <YShift>0.113161</YShift>
+        <ZShift>0.602307</ZShift>
+        <Height>9.967642</Height>
+        <BoundingMin X="-11.621933" Y="-2.173204" Z="-10.068594" />
+        <BoundingMax X="10.537275" Y="19.666023" Z="10.080864" />
+        <BoundingCenter X="-0.542329" Y="8.746409" Z="0.006135" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_pyrus2s</Name>
+        <File>chz\chernobylzoneobjects\plants\b_pyrus2s.p3d</File>
+        <Date>06/18/17 00:45:51</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1021360875</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.580186</BBRadius>
+        <BBHScale>0.998360</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.267610</XShift>
+        <YShift>0.019569</YShift>
+        <ZShift>1.022573</ZShift>
+        <Height>5.815470</Height>
+        <BoundingMin X="-6.868776" Y="-4.222805" Z="-6.689183" />
+        <BoundingMax X="6.117710" Y="10.908251" Z="6.772546" />
+        <BoundingCenter X="-0.375533" Y="3.342723" Z="0.041682" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_brokenspruce_pmc</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_brokenspruce_pmc.p3d</File>
+        <Date>06/18/17 00:45:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>477858961</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.090443</BBRadius>
+        <BBHScale>0.980799</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000264</XShift>
+        <YShift>0.000760</YShift>
+        <ZShift>0.091786</ZShift>
+        <Height>2.896297</Height>
+        <BoundingMin X="-0.758990" Y="-0.638150" Z="-1.038606" />
+        <BoundingMax X="1.382072" Y="5.338017" Z="1.143801" />
+        <BoundingCenter X="0.311541" Y="2.349934" Z="0.052598" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_burnspruce_pmc</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_burnspruce_pmc.p3d</File>
+        <Date>06/18/17 00:45:52</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-975666933</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.107001</BBRadius>
+        <BBHScale>1.163872</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000434</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.760691</Height>
+        <BoundingMin X="-1.076863" Y="-0.454577" Z="-1.289572" />
+        <BoundingMax X="1.500822" Y="11.066805" Z="0.924431" />
+        <BoundingCenter X="0.211979" Y="5.306114" Z="-0.182571" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_trunk_water</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_trunk_water.p3d</File>
+        <Date>06/18/17 00:45:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>75139001</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.508575</BBRadius>
+        <BBHScale>1.038556</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.015354</ZShift>
+        <Height>6.487640</Height>
+        <BoundingMin X="-1.920458" Y="-0.143384" Z="-2.995070" />
+        <BoundingMax X="3.290131" Y="12.862604" Z="2.022080" />
+        <BoundingCenter X="0.684837" Y="6.359610" Z="-0.486495" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_trunk_torzo</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_trunk_torzo.p3d</File>
+        <Date>06/18/17 00:45:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1020413106</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.064572</BBRadius>
+        <BBHScale>3.378710</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.009562</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.297912</Height>
+        <BoundingMin X="-3.072532" Y="-0.886685" Z="-2.955556" />
+        <BoundingMax X="10.897772" Y="1.709139" Z="1.173589" />
+        <BoundingCenter X="3.912620" Y="0.411227" Z="-0.890983" />
+        <Placement>slope</Placement>
+    </Template>
+    <Template>
+        <Name>misc_stub2</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_stub2.p3d</File>
+        <Date>06/18/17 00:45:53</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>935936145</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.750467</BBRadius>
+        <BBHScale>0.642570</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.031015</XShift>
+        <YShift>0.009873</YShift>
+        <ZShift>-0.002055</ZShift>
+        <Height>3.662980</Height>
+        <BoundingMin X="-1.616923" Y="-4.319183" Z="-1.336770" />
+        <BoundingMax X="0.848628" Y="3.031415" Z="2.291444" />
+        <BoundingCenter X="-0.384147" Y="-0.643884" Z="0.477337" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_stub1</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_stub1.p3d</File>
+        <Date>06/18/17 00:45:53</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>935936144</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.775520</BBRadius>
+        <BBHScale>1.098376</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.012405</XShift>
+        <YShift>-0.000881</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.460734</Height>
+        <BoundingMin X="-0.712749" Y="-0.357405" Z="-0.822328" />
+        <BoundingMax X="1.083171" Y="0.564063" Z="0.782900" />
+        <BoundingCenter X="0.185211" Y="0.103329" Z="-0.019714" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_fallentree2</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_fallentree2.p3d</File>
+        <Date>06/18/17 00:45:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2058700157</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.824297</BBRadius>
+        <BBHScale>0.246777</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.006445</XShift>
+        <YShift>-0.005242</YShift>
+        <ZShift>0.011366</ZShift>
+        <Height>2.033416</Height>
+        <BoundingMin X="-2.282866" Y="-2.035904" Z="-10.166734" />
+        <BoundingMax X="3.123026" Y="2.115733" Z="11.512874" />
+        <BoundingCenter X="0.420080" Y="0.039915" Z="0.673070" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_fallentree1</Name>
+        <File>chz\chernobylzoneobjects\plants\misc_fallentree1.p3d</File>
+        <Date>06/18/17 00:45:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2058700156</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>180.000000</YawRandMin>
+        <YawRandMax>180.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.982593</BBRadius>
+        <BBHScale>0.780391</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002499</ZShift>
+        <Height>1.576627</Height>
+        <BoundingMin X="-7.109713" Y="-0.640864" Z="-6.736943" />
+        <BoundingMax X="3.788588" Y="2.528449" Z="7.228242" />
+        <BoundingCenter X="-1.660563" Y="0.943792" Z="0.245650" />
+        <Placement></Placement>
+    </Template>
+</Library>
